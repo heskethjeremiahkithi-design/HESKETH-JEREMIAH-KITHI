@@ -1,0 +1,6 @@
+{
+  "name": "Hesketh Computers and Accessories Shop",
+  "description": "An premium full-stack ICT store and service portal in Kenya, offering computers & accessories wholesale, cyber cafe government services, and full graphic design services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
